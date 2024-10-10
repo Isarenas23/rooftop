@@ -1,0 +1,8 @@
+{
+  "name": "Rooftop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "ae41cf88"
+}
